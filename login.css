@@ -1,0 +1,82 @@
+.textColor {
+    color: rgba(255, 0, 0, 0.788);
+}
+
+.style {
+    height: 600px;
+    width: 198vh;
+}
+
+.btn {
+    text-align: right;
+    margin: 22px;
+    padding: 2px;
+}
+
+.add-btn {
+    margin: 40px;
+
+}
+
+.delete-btn {
+    color: red;
+    mix-blend-mode: color-burn;
+}
+
+.link-style {
+    mix-blend-mode: color-burn;
+}
+
+.remove-style {
+    align-self: start;
+}
+
+.form-style {
+    color: brown;
+}
+.btn-2{
+    margin: 2px;
+}
+.btnStyle{
+    margin: 2px;
+    color: red;
+}
+.button-adjustment>:nth-child(2){
+    margin-top: 10px !important;
+}
+.btn-adjustment>:nth-child(2){
+    margin-left: 15px;
+    /* color: red !important; */
+    background-color: red !important;
+}
+
+.form-btn-adjustment>:nth-child(3){
+    margin-left: 4px !important;
+    background-color: rgba(255, 0, 0, 0.76);
+
+}
+.form-btn-adjustment>:nth-child(2){
+    margin-left: 4px !important;
+
+
+}
+.btn2-adjustment>:nth-child(2){
+    margin-top: 10px !important;
+}
+
+.chartStyle{
+    padding-top: 45px;
+    height: 275px !important;
+    width: 750px !important;
+}
+.filterStyle{
+
+    width: 286px;
+    
+}
+.donut-style{
+    box-sizing: border-box;
+    display: block;
+    height: 535px;
+    width: 1903px;
+}
